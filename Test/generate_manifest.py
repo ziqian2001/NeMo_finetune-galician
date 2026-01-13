@@ -96,5 +96,3 @@ with open(phoneme_dict_path, 'w', encoding='utf-8') as f:
         f.write(f"{p} {p}\n") 
 
 print(f"Phoneme dictionary saved to: {phoneme_dict_path} with {len(all_phonemes)} symbols")
-print(f"Similar phonemes (for reference): {similar_phonemes}")
-print(f"Different phonemes (for '狠狠学'): {different_phonemes}")
