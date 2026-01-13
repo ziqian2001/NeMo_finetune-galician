@@ -9,8 +9,6 @@ fon_dir = os.path.join(data_root, 'fon')
 audio_dir = os.path.join(data_root, 'wav')
 output_dir = '/baseline/' 
 
-similar_phonemes = {'a', 'e', 'i', 'o', 'u', 'p', 'b', 't', 'd', 'k', 'g', 'f', 's', 'm', 'n', 'l', 'r', 'ɾ', 'j', 'θ', 'tʃ', 'ɲ'} 
-different_phonemes = {'ɛ', 'ɔ', 'ʃ', 'ɰ', 'ħ', 'ŋ', 'ʒ', 'ɟ'}
 sampa_to_ipa = {
     'E': 'ɛ', 'O': 'ɔ', 'x': 'ʃ', 'N': 'ŋ', 'tS': 'tʃ',
     'rr': 'r', 'r': 'ɾ', 'J': 'ɲ', 'T': 'θ', 
