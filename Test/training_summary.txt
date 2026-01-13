@@ -1,0 +1,22 @@
+Training Summary (Every 5 Epochs):
+========================================
+Epoch   4: Val Loss = 0.84480, Best Loss = 0.84480
+Epoch   9: Val Loss = 0.73129, Best Loss = 0.73129
+Epoch  14: Val Loss = 0.68630, Best Loss = 0.68630
+Epoch  19: Val Loss = 0.66130, Best Loss = 0.66130
+Epoch  24: Val Loss = 0.64310, Best Loss = 0.64310
+Epoch  29: Val Loss = 0.62527, Best Loss = 0.62527
+Epoch  34: Val Loss = 0.61351, Best Loss = 0.61351
+Epoch  39: Val Loss = 0.60207, Best Loss = 0.60207
+Epoch  44: Val Loss = 0.59558, Best Loss = 0.59558
+Epoch  49: Val Loss = 0.58719, Best Loss = 0.58719
+Epoch  54: Val Loss = 0.58211, Best Loss = 0.58211
+Epoch  59: Val Loss = 0.57743, Best Loss = 0.57743
+Epoch  64: Val Loss = 0.57092, Best Loss = 0.57092
+Epoch  69: Val Loss = 0.56640, Best Loss = 0.56640
+Epoch  74: Val Loss = 0.56200, Best Loss = 0.56200
+Epoch  79: Val Loss = 0.55858, Best Loss = 0.55858
+Epoch  84: Val Loss = 0.55586, Best Loss = 0.55586
+Epoch  89: Val Loss = 0.55261, Best Loss = 0.55261
+Epoch  94: Val Loss = 0.55064, Best Loss = 0.55064
+Epoch  99: Val Loss = 0.54830, Best Loss = 0.54830
